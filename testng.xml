@@ -1,0 +1,7 @@
+<suite name="PHPTravels">
+  <test name="AdministratorUser">
+   <classes>
+      <class name="net.phptravels.tests.NewAdmin"/>
+   </classes>
+  </test> <!-- AdministratorUser -->
+</suite> <!-- PHPTravels -->

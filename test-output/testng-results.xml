@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="PHP" duration-ms="40539" started-at="2016-08-08T18:19:28Z" finished-at="2016-08-08T18:20:08Z">
+    <groups>
+    </groups>
+    <test name="AdminUserCreation" duration-ms="40539" started-at="2016-08-08T18:19:28Z" finished-at="2016-08-08T18:20:08Z">
+      <class name="net.phptravels.tests.NewAdmin">
+        <test-method status="PASS" signature="Test1()[pri:0, instance:net.phptravels.tests.NewAdmin@4cc0edeb]" name="Test1" duration-ms="40505" started-at="2016-08-08T23:49:28Z" finished-at="2016-08-08T23:50:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+      </class> <!-- net.phptravels.tests.NewAdmin -->
+    </test> <!-- AdminUserCreation -->
+  </suite> <!-- PHP -->
+</testng-results>

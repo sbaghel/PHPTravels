@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="PHP">
+  <test name="AdminUserCreation">
+     <classes>
+      <class name="net.phptravels.tests.NewAdmin"/>
+     </classes>
+  </test> <!-- AdminUserCreation -->
+</suite> <!-- PHP -->
